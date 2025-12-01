@@ -31,11 +31,6 @@ public class EverythingStack<E> {
         }
         return top.value;
     }
-
-    public static void main(String[] args) {
-
-    }
-
 }
 
 class EverythingStackLink <E>{
