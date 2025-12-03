@@ -30,7 +30,7 @@ Memento;2000;Thriller;8.4
 Let the Right One In;2008;Horror;7.9
 Batman Begins;2005;Action;8.3
 The Witch;2015;Horror;6.9
-The Lord of the Rings: The Fellowship of the Ring;2001;Fantasy;10.3
+The Lord of the Rings: The Fellowship of the Ring;2001;Fantasy;10.0
 Velvet Shadows;2021;Horror;8.7
 Paranormal Activity;2007;Horror;6.3
 Echoes of Eden;2017;Drama;7.5
@@ -44,7 +44,7 @@ The Others;2001;Horror;7.6
 Ethereal Elegance;2019;Drama;7.7
 The Conjuring;2013;Horror;7.5
 Radiant Reverie;2018;Science Fiction;9.0
-The Lord of the Rings: The Two Towers;2002;Fantasy;10.2
+The Lord of the Rings: The Two Towers;2002;Fantasy;10.1
 The Avengers;2012;Action;8.1
 Pinnacle of Peril;2011;Thriller;7.4
 Gladiator;2000;Action;8.5

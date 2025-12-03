@@ -8,6 +8,7 @@ public class kouzelnaDilnicka {
         dimension.push(new Wizard("Pepa", 200, 15));
         dimension.push(new Wizard("Franta", 300, 10));
         dimension.push(new Wizard("Arcibald", 100, 30));
+
     }
 }
 

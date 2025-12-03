@@ -30,7 +30,6 @@ public class Donators {
         System.out.println("O+: " + uniqueDonators(valuableResources, "O+").size());
         System.out.println("O-: " + uniqueDonators(valuableResources, "O-").size());
 
-
         di.finishImport();
     }
 
