@@ -1,0 +1,495 @@
+Track{name='Skills in Pills', year=2015, rate=8.56, time=13:27}
+Track{name='The Devil in I', year=2014, rate=5.96, time=12:20}
+Track{name='Freak On a Leash', year=1998, rate=9.89, time=10:12}
+Track{name='You Spin Me Round (Like A Record)', year=1999, rate=5.01, time=9:48}
+Track{name='Ambiramus', year=2019, rate=4.9, time=2:20}
+Track{name='Empty Walls', year=2007, rate=7.27, time=11:1}
+Track{name='Kumba Yo !', year=2006, rate=6.01, time=7:38}
+Track{name='Plastic Heart', year=2017, rate=8.39, time=3:46}
+Track{name='The Eagle Flies Alone - edit', year=2017, rate=4.72, time=11:46}
+Track{name='333', year=2019, rate=7.93, time=5:29}
+Track{name='AUSLANDER', year=2019, rate=8.54, time=15:15}
+Track{name='Cyanide', year=2010, rate=9.93, time=2:24}
+Track{name='Turn It Up', year=2010, rate=7.3, time=12:7}
+Track{name='Rainbow', year=2014, rate=6.53, time=2:8}
+Track{name='This Is Why We Bleed', year=2016, rate=7.34, time=7:19}
+Track{name='Living In A Lie - Unplugged Version', year=2000, rate=5.92, time=7:24}
+Track{name='Beginning of the End', year=2003, rate=9.31, time=3:35}
+Track{name='A Rose for Epona', year=2012, rate=6.34, time=2:16}
+Track{name='Free', year=2003, rate=9.25, time=7:35}
+Track{name='The Beautiful people', year=2004, rate=6.85, time=12:16}
+Track{name='Sex Metal Barbie', year=2014, rate=7.84, time=10:27}
+Track{name='You and Not Me', year=2013, rate=5.38, time=10:33}
+Track{name='I am Shipping Up To Boston', year=2012, rate=5.1, time=3:50}
+Track{name='Cowboy', year=2015, rate=5.55, time=13:42}
+Track{name='Hail to the King', year=2013, rate=9.34, time=12:3}
+Track{name='L.U.I. - Life Under the Influence', year=2014, rate=4.87, time=8:34}
+Track{name='Interdimensional Summit', year=2018, rate=7.6, time=14:52}
+Track{name='When Legends Rise', year=2018, rate=5.5, time=3:57}
+Track{name='Is There Anybody out There?', year=2016, rate=9.48, time=8:47}
+Track{name='Wake Up', year=2018, rate=9.79, time=12:57}
+Track{name='Fish On', year=2015, rate=4.99, time=2:43}
+Track{name='Set Flame to the Night', year=2017, rate=6.99, time=11:45}
+Track{name='Soldier Side', year=2005, rate=4.73, time=11:41}
+Track{name='Dragula', year=1998, rate=8.39, time=6:43}
+Track{name='Poker Face', year=2011, rate=7.29, time=7:24}
+Track{name='Boomerang', year=2017, rate=9.73, time=9:10}
+Track{name='The War We Made', year=2020, rate=9.05, time=13:42}
+Track{name='The Call of the Mountains', year=2014, rate=6.11, time=3:47}
+Track{name='DEUTSCHLAND', year=2019, rate=5.32, time=3:33}
+Track{name='Your Betrayal', year=2010, rate=9.52, time=12:27}
+Track{name='Black Flag Army', year=2019, rate=6.98, time=4:35}
+Track{name='Golden Shower', year=2015, rate=9.89, time=15:13}
+Track{name='For the Swarm', year=2016, rate=5.4, time=9:51}
+Track{name='Augen auf!', year=2006, rate=6.25, time=13:43}
+Track{name='Blow Me Away - Soundtrack Version', year=2004, rate=6.48, time=14:33}
+Track{name='Mercury Gift', year=2012, rate=8.23, time=10:7}
+Track{name='Riot', year=2006, rate=6.9, time=10:29}
+Track{name='Loewenherz', year=2020, rate=9.05, time=11:41}
+Track{name='Nazis auf Speed', year=2013, rate=4.52, time=14:34}
+Track{name='Chemicals', year=2008, rate=5.03, time=7:9}
+Track{name='Rock in the City', year=2020, rate=5.56, time=12:35}
+Track{name='Take the Day!', year=2012, rate=9.2, time=11:51}
+Track{name='Drink', year=2014, rate=9.48, time=12:27}
+Track{name='Row Row Row', year=2020, rate=7.11, time=8:43}
+Track{name='Happy Little Boozer', year=2017, rate=8.16, time=6:1}
+Track{name='Transcendental Bean Exploration', year=2018, rate=8.29, time=3:59}
+Track{name='Blood of Heroes', year=2013, rate=7.55, time=5:48}
+Track{name='Heart To Stone', year=2020, rate=9.38, time=14:20}
+Track{name='Napisten Hava', year=2012, rate=6.7, time=9:14}
+Track{name='How to be a Pirate', year=2021, rate=9.07, time=7:38}
+Track{name='Night Drive', year=2020, rate=9.12, time=3:50}
+Track{name='Surma', year=2011, rate=7.0, time=5:16}
+Track{name='Hangover (Taio Cruz Cover)', year=2014, rate=4.77, time=14:13}
+Track{name='Medical Emergency', year=2018, rate=9.67, time=13:20}
+Track{name='End of an Empire', year=2012, rate=9.96, time=13:7}
+Track{name='I Salute You', year=2020, rate=9.74, time=9:58}
+Track{name='Rasputin', year=2007, rate=8.73, time=7:27}
+Track{name='Fannybaws', year=2020, rate=4.87, time=10:10}
+Track{name='The Longing', year=2016, rate=5.92, time=5:25}
+Track{name='Kunnia', year=2012, rate=8.02, time=2:29}
+Track{name='Vulgaris Magistralis - Bonus Track', year=2008, rate=7.48, time=7:1}
+Track{name='Primo Victoria', year=2010, rate=4.94, time=14:23}
+Track{name='Wer kann segeln ohne Wind', year=2020, rate=8.78, time=9:50}
+Track{name='Killed 2 Deth by Bugs', year=2018, rate=6.22, time=3:37}
+Track{name='Destined Course', year=2016, rate=4.74, time=5:39}
+Track{name='Where the Angels Fly', year=2020, rate=6.81, time=2:32}
+Track{name='For Better Or For Worse', year=2014, rate=6.72, time=6:55}
+Track{name='The Sunk'n Noreian', year=2008, rate=9.39, time=10:8}
+Track{name='Ievan Polkka', year=2012, rate=9.43, time=6:43}
+Track{name='Stand Up and Fight', year=2012, rate=8.05, time=4:14}
+Track{name='Chariot of Fire', year=2020, rate=6.73, time=13:52}
+Track{name='Tequila', year=2011, rate=4.8, time=8:17}
+Track{name='Theme from a Beans Album', year=2018, rate=6.66, time=9:39}
+Track{name='Chop the Head Off', year=2016, rate=6.57, time=11:19}
+Track{name='No Grave but the Sea', year=2017, rate=6.18, time=5:18}
+Track{name='The March of the Varangian Guard', year=2012, rate=8.58, time=10:44}
+Track{name='Deathwatch Beetle Party', year=2021, rate=4.8, time=4:56}
+Track{name='Bring Us Pints of Beer', year=2009, rate=7.64, time=4:41}
+Track{name='Mittelfinger Richtung Zukunft', year=2020, rate=6.25, time=11:42}
+Track{name='Born to the Fight', year=1998, rate=7.23, time=6:11}
+Track{name='Fucked with an Anchor', year=2017, rate=7.95, time=2:9}
+Track{name='Help Is On The Way', year=2017, rate=6.14, time=3:9}
+Track{name='The Great Escape', year=2012, rate=4.99, time=6:57}
+Track{name='Midnight Breakfast', year=2018, rate=4.56, time=7:20}
+Track{name='Lempo', year=2015, rate=6.31, time=11:0}
+Track{name='Heart Full Of fire', year=2012, rate=6.79, time=14:46}
+Track{name='In My Sword I Trust', year=2012, rate=8.65, time=13:40}
+Track{name='Nancy the Tavern Wench', year=2018, rate=6.4, time=13:31}
+Track{name='Jack', year=2006, rate=7.5, time=5:30}
+Track{name='Son of Odin', year=2017, rate=7.23, time=5:16}
+Track{name='82nd All the Way', year=2020, rate=8.84, time=15:12}
+Track{name='Night Witches', year=2014, rate=7.18, time=4:21}
+Track{name='Battle from Within', year=2019, rate=8.02, time=13:22}
+Track{name='Yggdrasil', year=2017, rate=9.58, time=10:10}
+Track{name='Helix', year=2018, rate=4.5, time=13:58}
+Track{name='Carolus Rex - English Version', year=2012, rate=4.77, time=7:10}
+Track{name='Forever', year=2018, rate=6.47, time=10:32}
+Track{name='All Guns Blazing - Bonus', year=2016, rate=7.49, time=2:33}
+Track{name='Kaunaz Dagaz', year=2020, rate=8.23, time=5:56}
+Track{name='Nowhere', year=2018, rate=4.74, time=14:13}
+Track{name='Drop Dead Cynical', year=2014, rate=6.17, time=4:40}
+Track{name='Inside A Lullaby', year=2017, rate=5.9, time=11:20}
+Track{name='Fields of Sorrow', year=2017, rate=9.35, time=9:11}
+Track{name='I Am The Storm', year=2018, rate=9.23, time=14:35}
+Track{name='Powersnake', year=2020, rate=4.59, time=10:27}
+Track{name='Here To Save You', year=2017, rate=4.63, time=7:30}
+Track{name='Do or Die', year=2020, rate=5.36, time=6:34}
+Track{name='For Whom the Bell Tolls - Metallica Cover', year=2014, rate=7.29, time=10:6}
+Track{name='Letter To Myself', year=2017, rate=5.95, time=13:43}
+Track{name='Fields of Verdun', year=2019, rate=7.77, time=4:28}
+Track{name='Die, Die My Darling', year=1998, rate=5.84, time=12:6}
+Track{name='The Score', year=2018, rate=9.17, time=9:6}
+Track{name='Fire Blood and Steel', year=2017, rate=8.35, time=7:17}
+Track{name='Demons Are A Girl's Best Friend', year=2018, rate=6.71, time=4:52}
+Track{name='Brood of the Trickster', year=2020, rate=7.35, time=6:8}
+Track{name='Countdown', year=2018, rate=9.52, time=9:51}
+Track{name='Great War', year=2019, rate=9.91, time=12:32}
+Track{name='Rescue Ride', year=2017, rate=7.47, time=7:39}
+Track{name='The Fairies Dance', year=2019, rate=8.04, time=7:5}
+Track{name='Njord', year=2020, rate=6.13, time=15:17}
+Track{name='Dream', year=2018, rate=9.2, time=8:55}
+Track{name='Last Dying Breath', year=2016, rate=9.45, time=11:47}
+Track{name='Karma', year=2017, rate=4.74, time=3:47}
+Track{name='Gladiator', year=2018, rate=9.21, time=4:12}
+Track{name='The Red Baron', year=2019, rate=9.98, time=4:27}
+Track{name='Army Of The Night', year=2018, rate=8.8, time=10:23}
+Track{name='Defenders of Valhalla', year=2017, rate=5.3, time=9:30}
+Track{name='Silverseal', year=2019, rate=5.4, time=14:4}
+Track{name='Out of My Life', year=2019, rate=8.25, time=2:32}
+Track{name='Hel', year=2020, rate=7.95, time=11:37}
+Track{name='Raise Your Banner - Single Edit', year=2019, rate=7.32, time=8:15}
+Track{name='The Last Stand', year=2016, rate=7.06, time=13:22}
+Track{name='Dead To Me', year=2017, rate=7.36, time=11:27}
+Track{name='Maximize', year=2016, rate=8.32, time=6:36}
+Track{name='Heartrage', year=2017, rate=6.32, time=7:55}
+Track{name='Archangel', year=2020, rate=5.01, time=5:56}
+Track{name='82nd All the Way', year=2019, rate=8.99, time=5:25}
+Track{name='Masters of the Galaxy', year=2019, rate=8.71, time=7:44}
+Track{name='Prophecy of Ragnarok', year=2017, rate=9.12, time=4:15}
+Track{name='Empty Walls', year=2007, rate=7.58, time=11:36}
+Track{name='Straight Out the Gate', year=2013, rate=6.35, time=3:23}
+Track{name='Straight Out the Gate: (The Scott Stevens Remix) - Bonus Track', year=2014, rate=5.91, time=3:56}
+Track{name='Harakiri', year=2012, rate=8.31, time=9:58}
+Track{name='Sky Is Over', year=2007, rate=9.12, time=12:0}
+Track{name='Elasticity', year=2021, rate=7.36, time=7:51}
+Track{name='Gate 21', year=2010, rate=6.25, time=3:18}
+Track{name='Godzilla (feat. Serj Tankian)', year=2019, rate=6.38, time=13:4}
+Track{name='Lie Lie Lie', year=2007, rate=7.2, time=6:27}
+Track{name='The Rains of Castamere', year=2019, rate=6.78, time=2:59}
+Track{name='Artsakh', year=2016, rate=8.71, time=2:37}
+Track{name='The Unthinking Majority', year=2007, rate=9.46, time=12:14}
+Track{name='Deafening Silence', year=2012, rate=8.19, time=6:17}
+Track{name='Coma', year=2005, rate=9.29, time=14:53}
+Track{name='Left of Center', year=2010, rate=9.71, time=7:41}
+Track{name='Elect the Dead', year=2007, rate=5.23, time=13:9}
+Track{name='Goodbye - Gate 21 - Rock Remix', year=2010, rate=5.58, time=12:38}
+Track{name='Cornucopia', year=2012, rate=8.86, time=12:41}
+Track{name='Wings of Summer', year=2010, rate=9.4, time=4:3}
+Track{name='Saving Us', year=2007, rate=7.0, time=6:58}
+Track{name='Ching Chime', year=2012, rate=5.48, time=12:49}
+Track{name='We Are One', year=2005, rate=7.02, time=6:54}
+Track{name='Gor Climbing', year=2018, rate=6.38, time=8:45}
+Track{name='Peace Be Revenged', year=2010, rate=5.35, time=8:10}
+Track{name='The Charade - Live', year=2010, rate=9.56, time=7:4}
+Track{name='Descendants of Those Who Survived 1915', year=2016, rate=5.7, time=10:31}
+Track{name='Uneducated Democracy', year=2012, rate=7.36, time=2:17}
+Track{name='Borders Are...', year=2010, rate=5.62, time=6:17}
+Track{name='Anush Basement Full Theme', year=2018, rate=4.78, time=13:50}
+Track{name='Hayastane', year=2020, rate=4.98, time=12:17}
+Track{name='Deserving?', year=2010, rate=8.31, time=11:55}
+Track{name='Weave On', year=2012, rate=6.29, time=8:50}
+Track{name='Forget Me Knot', year=2012, rate=5.31, time=5:27}
+Track{name='Anush Basement Theme', year=2018, rate=4.68, time=7:58}
+Track{name='Ari Im Sokhag', year=2016, rate=9.69, time=5:14}
+Track{name='Frenchy', year=2020, rate=5.92, time=9:54}
+Track{name='Butterfly', year=2012, rate=6.02, time=9:26}
+Track{name='Gor Searching', year=2018, rate=9.88, time=5:33}
+Track{name='The Family', year=2017, rate=8.31, time=5:9}
+Track{name='Figure It Out', year=2012, rate=6.29, time=15:0}
+Track{name='Reality TV', year=2012, rate=5.68, time=13:19}
+Track{name='Waiting Hare', year=2005, rate=8.99, time=3:25}
+Track{name='Chase', year=2020, rate=9.14, time=12:4}
+Track{name='Tyrant's Gratitude', year=2012, rate=8.76, time=3:22}
+Track{name='Occupied Tears', year=2012, rate=6.12, time=8:33}
+Track{name='Total Paranoia', year=2011, rate=9.85, time=11:1}
+Track{name='Paradise City', year=1987, rate=8.03, time=3:51}
+Track{name='Knockin' On Heaven's Door', year=1991, rate=7.28, time=5:4}
+Track{name='Sweet Child O' Mine', year=1987, rate=5.14, time=5:0}
+Track{name='November Rain', year=1991, rate=6.06, time=10:56}
+Track{name='Welcome To The Jungle', year=1987, rate=7.81, time=6:58}
+Track{name='Don't Cry (Original)', year=1991, rate=5.15, time=7:1}
+Track{name='You Could Be Mine', year=1991, rate=7.71, time=11:0}
+Track{name='It's So Easy', year=1987, rate=5.89, time=5:10}
+Track{name='Patience', year=1988, rate=5.0, time=8:29}
+Track{name='Yesterdays', year=1991, rate=6.88, time=5:53}
+Track{name='Nightrain', year=1987, rate=4.51, time=4:8}
+Track{name='Live And Let Die', year=1991, rate=9.68, time=11:18}
+Track{name='Out Ta Get Me', year=1987, rate=6.83, time=2:38}
+Track{name='Since I Don't Have You', year=1993, rate=9.46, time=8:19}
+Track{name='Mr. Brownstone', year=1987, rate=5.57, time=14:29}
+Track{name='Used To Love Her', year=1988, rate=4.79, time=11:15}
+Track{name='My Michelle', year=1987, rate=7.59, time=2:0}
+Track{name='Civil War', year=1991, rate=7.57, time=9:38}
+Track{name='Think About You', year=1987, rate=9.3, time=5:14}
+Track{name='Shadow Of Your Love', year=2018, rate=9.91, time=5:7}
+Track{name='You're Crazy', year=1987, rate=8.76, time=6:29}
+Track{name='Estranged', year=1991, rate=6.8, time=11:44}
+Track{name='Anything Goes', year=1987, rate=8.49, time=12:38}
+Track{name='Rocket Queen', year=1987, rate=9.31, time=5:57}
+Track{name='Double Talkin' Jive', year=1991, rate=9.11, time=6:55}
+Track{name='There Was A Time', year=2008, rate=7.32, time=11:17}
+Track{name='14 Years', year=1991, rate=9.76, time=9:59}
+Track{name='Attitude', year=1993, rate=9.76, time=14:47}
+Track{name='Ain't It Fun', year=1993, rate=8.06, time=10:5}
+Track{name='Don't Damn Me', year=1991, rate=9.6, time=12:9}
+Track{name='Chinese Democracy', year=2008, rate=5.78, time=4:28}
+Track{name='Right Next Door To Hell', year=1991, rate=8.44, time=4:55}
+Track{name='New Rose', year=1993, rate=6.23, time=8:29}
+Track{name='Better', year=2008, rate=7.47, time=13:11}
+Track{name='Sorry', year=2008, rate=6.03, time=11:31}
+Track{name='Sympathy For The Devil', year=2004, rate=8.2, time=15:7}
+Track{name='Raw Power', year=1993, rate=5.18, time=8:5}
+Track{name='If The World', year=2008, rate=6.41, time=5:30}
+Track{name='Coma', year=1991, rate=7.71, time=8:33}
+Track{name='Hair Of The Dog', year=1993, rate=8.9, time=13:40}
+Track{name='Black Leather', year=1993, rate=9.55, time=4:25}
+Track{name='Shotgun Blues', year=1991, rate=7.51, time=3:24}
+Track{name='Locomotive (Complicity)', year=1991, rate=9.64, time=13:20}
+Track{name='Dust N' Bones', year=1991, rate=9.31, time=13:2}
+Track{name='Pretty Tied Up (The Perils Of Rock N' Roll Decadence)', year=1991, rate=8.77, time=13:29}
+Track{name='This I Love', year=2008, rate=8.91, time=3:17}
+Track{name='Open Your eyes', year=2004, rate=8.7, time=8:17}
+Track{name='Big in Japan', year=2000, rate=6.14, time=10:45}
+Track{name='Break The Line', year=2006, rate=5.01, time=14:10}
+Track{name='Lords of the Nords', year=2006, rate=6.13, time=7:57}
+Track{name='Close to the Sun', year=2014, rate=7.44, time=9:30}
+Track{name='Living in a Lie', year=2006, rate=5.36, time=2:25}
+Track{name='Lose Yourself', year=2017, rate=6.51, time=9:13}
+Track{name='Like Somebody', year=2014, rate=7.63, time=4:4}
+Track{name='Rain', year=2006, rate=7.84, time=8:39}
+Track{name='Heaven', year=2000, rate=7.66, time=9:35}
+Track{name='We Use the Pain', year=2009, rate=6.42, time=14:22}
+Track{name='Oh What A Night', year=2011, rate=5.67, time=10:4}
+Track{name='Kiss the dawn', year=2007, rate=6.47, time=12:49}
+Track{name='Mine All Mine', year=2000, rate=8.0, time=14:41}
+Track{name='Never born', year=2001, rate=6.5, time=2:40}
+Track{name='No Speech', year=2006, rate=9.4, time=8:54}
+Track{name='Hey Last Beautiful', year=2014, rate=7.12, time=10:49}
+Track{name='Dodel Up', year=2000, rate=6.79, time=5:55}
+Track{name='Sick', year=2006, rate=9.4, time=7:23}
+Track{name='When the Ships Arrive', year=2011, rate=6.31, time=9:56}
+Track{name='Innocent Greed', year=2000, rate=8.29, time=4:13}
+Track{name='Crossing the Deadline', year=2009, rate=9.4, time=4:36}
+Track{name='Sunday Lover', year=2011, rate=8.9, time=3:13}
+Track{name='Money & Milk', year=2000, rate=5.42, time=7:8}
+Track{name='Candy Love', year=2004, rate=6.63, time=4:49}
+Track{name='Don't You Turn Your Back On Me', year=2006, rate=8.82, time=3:54}
+Track{name='Fire In Your Eyes', year=2011, rate=8.84, time=2:56}
+Track{name='Numen', year=2014, rate=9.24, time=5:3}
+Track{name='Stay', year=2004, rate=9.16, time=10:22}
+Track{name='Get Busy - 2017 Mix', year=2017, rate=7.97, time=5:11}
+Track{name='This Time', year=2011, rate=9.5, time=9:20}
+Track{name='It's Not Over', year=2014, rate=4.68, time=6:7}
+Track{name='Electric Nights', year=2004, rate=4.89, time=13:29}
+Track{name='Suzie - 2017 Version', year=2017, rate=7.57, time=7:47}
+Track{name='Fanman', year=2011, rate=5.83, time=12:24}
+Track{name='Fake', year=2014, rate=9.5, time=4:11}
+Track{name='Underwear', year=2004, rate=6.74, time=8:56}
+Track{name='Precious', year=2017, rate=8.03, time=11:9}
+Track{name='Move A Little Closer - Live', year=2003, rate=5.1, time=12:3}
+Track{name='Wasserfliege - Demo Tape', year=2006, rate=8.96, time=4:34}
+Track{name='Counting The Days', year=2004, rate=7.14, time=7:34}
+Track{name='This Is Not America', year=2017, rate=8.8, time=12:22}
+Track{name='Cream Over Moon', year=2004, rate=6.62, time=9:35}
+Track{name='Score - 2017 Mix', year=2017, rate=8.8, time=15:17}
+Track{name='The Mountain', year=2018, rate=5.1, time=2:0}
+Track{name='Right Left Wrong', year=2018, rate=7.1, time=11:12}
+Track{name='I Am An Outsider', year=2018, rate=8.81, time=8:0}
+Track{name='I Hate Everything About You', year=2007, rate=9.12, time=9:56}
+Track{name='Infra-Red', year=2018, rate=5.74, time=5:45}
+Track{name='You Don't Get Me High Anymore', year=2016, rate=9.58, time=12:11}
+Track{name='Painkiller', year=2015, rate=5.51, time=11:14}
+Track{name='Animal I Have Become', year=2006, rate=7.01, time=13:43}
+Track{name='Break', year=2009, rate=9.83, time=10:50}
+Track{name='Riot', year=2006, rate=6.58, time=2:38}
+Track{name='Just Like You', year=2007, rate=6.65, time=2:14}
+Track{name='Fallen Angel', year=2015, rate=5.57, time=12:41}
+Track{name='World so Cold', year=2009, rate=7.12, time=5:42}
+Track{name='Never Too Late', year=2006, rate=7.97, time=9:38}
+Track{name='Chalk Outline', year=2012, rate=9.32, time=3:38}
+Track{name='I Am Machine', year=2015, rate=8.21, time=4:29}
+Track{name='The Good Life', year=2009, rate=4.85, time=11:42}
+Track{name='Pain', year=2006, rate=4.64, time=7:54}
+Track{name='The High Road', year=2012, rate=6.62, time=7:9}
+Track{name='Tell Me Why', year=2015, rate=5.94, time=4:31}
+Track{name='Lost in You', year=2009, rate=8.77, time=6:35}
+Track{name='Time of Dying', year=2006, rate=7.24, time=15:7}
+Track{name='Misery Loves My Company', year=2012, rate=7.22, time=2:21}
+Track{name='Home', year=2007, rate=5.3, time=11:29}
+Track{name='Last to Know', year=2009, rate=7.42, time=6:40}
+Track{name='Gone Forever', year=2006, rate=6.86, time=6:38}
+Track{name='Human Race', year=2015, rate=7.0, time=4:28}
+Track{name='Wake Up', year=2007, rate=8.45, time=7:7}
+Track{name='Bitter Taste', year=2009, rate=6.28, time=9:31}
+Track{name='So What', year=2015, rate=6.31, time=5:59}
+Track{name='Broken Glass', year=2012, rate=9.71, time=11:27}
+Track{name='Are You Ready', year=2007, rate=6.73, time=13:47}
+Track{name='Unbreakable Heart', year=2012, rate=5.79, time=8:44}
+Track{name='Scared', year=2007, rate=8.22, time=3:17}
+Track{name='Anonymous', year=2012, rate=7.63, time=10:14}
+Track{name='Monster', year=2009, rate=6.58, time=11:8}
+Track{name='Feel Invincible', year=2016, rate=5.46, time=2:35}
+Track{name='Comatose', year=2006, rate=6.74, time=11:6}
+Track{name='Not Gonna Die', year=2013, rate=5.42, time=9:8}
+Track{name='Hero', year=2009, rate=8.81, time=9:15}
+Track{name='The Resistance', year=2016, rate=8.01, time=15:5}
+Track{name='Whispers in the Dark', year=2006, rate=9.3, time=10:7}
+Track{name='Legendary', year=2019, rate=6.47, time=9:25}
+Track{name='Awake and Alive', year=2009, rate=6.79, time=5:52}
+Track{name='Rise', year=2013, rate=9.44, time=3:58}
+Track{name='Stars - The Shack Film Version', year=2017, rate=5.99, time=7:18}
+Track{name='Save Me', year=2019, rate=9.07, time=6:24}
+Track{name='Back from the Dead', year=2016, rate=4.51, time=11:53}
+Track{name='Falling Inside the Black', year=2006, rate=6.56, time=14:58}
+Track{name='Sick of It', year=2013, rate=9.24, time=5:40}
+Track{name='Finish Line', year=2019, rate=6.12, time=6:44}
+Track{name='Undefeated', year=2016, rate=7.09, time=12:42}
+Track{name='Rebirthing', year=2006, rate=5.45, time=9:31}
+Track{name='Lucy', year=2009, rate=7.2, time=8:13}
+Track{name='Circus for a Psycho', year=2013, rate=5.26, time=11:48}
+Track{name='I Want to Live', year=2016, rate=9.56, time=2:55}
+Track{name='The Last Night', year=2006, rate=9.9, time=12:10}
+Track{name='You Ain't Ready', year=2019, rate=5.57, time=8:44}
+Track{name='What I Believe', year=2013, rate=5.58, time=13:57}
+Track{name='Lions', year=2016, rate=5.25, time=8:49}
+Track{name='Those Nights', year=2006, rate=9.02, time=11:46}
+Track{name='Never Surrender', year=2009, rate=9.74, time=5:5}
+Track{name='This Is the Kingdom', year=2019, rate=5.39, time=2:38}
+Track{name='Set It Off', year=2017, rate=9.36, time=2:25}
+Track{name='Dead Man Walking', year=2020, rate=6.49, time=2:8}
+Track{name='One Day Too Late', year=2009, rate=9.13, time=7:48}
+Track{name='Victorious', year=2019, rate=7.52, time=6:35}
+Track{name='Dead Inside', year=2009, rate=6.24, time=15:6}
+Track{name='Best Kept Secret', year=2000, rate=8.81, time=3:36}
+Track{name='Freakshow', year=2013, rate=5.28, time=6:24}
+Track{name='You Get Me High', year=2017, rate=5.95, time=2:32}
+Track{name='It's Not Me, It's You', year=2009, rate=5.72, time=14:43}
+Track{name='Savior', year=2003, rate=6.72, time=3:50}
+Track{name='Terrify the Dark - Reimagined', year=2020, rate=5.49, time=5:56}
+Track{name='Brave', year=2017, rate=5.29, time=3:48}
+Track{name='Would It Matter', year=2009, rate=9.86, time=7:20}
+Track{name='Open Wounds', year=2003, rate=7.46, time=13:10}
+Track{name='Sick and Empty', year=2020, rate=9.66, time=9:47}
+Track{name='Stay 'Til the Daylight', year=2017, rate=4.91, time=5:9}
+Track{name='Forgiven', year=2009, rate=6.51, time=14:14}
+Track{name='Forsaken', year=2003, rate=6.27, time=5:58}
+Track{name='Dreaming of Eden', year=2020, rate=8.45, time=14:29}
+Track{name='Breaking Free (feat. Lacey Sturm)', year=2017, rate=7.36, time=11:9}
+Track{name='Believe', year=2009, rate=8.61, time=5:5}
+Track{name='Live Free or Let Me Die', year=2008, rate=7.05, time=3:16}
+Track{name='Harvest', year=2020, rate=6.7, time=5:49}
+Track{name='Noise', year=2020, rate=7.51, time=4:14}
+Track{name='Nemo', year=2004, rate=5.0, time=5:12}
+Track{name='Amaranth', year=2007, rate=5.39, time=8:9}
+Track{name='Sleeping Sun', year=1998, rate=4.9, time=2:12}
+Track{name='How's the Heart?', year=2020, rate=8.59, time=6:17}
+Track{name='End Of All hope', year=2006, rate=9.72, time=10:33}
+Track{name='Wish I Had An Angel', year=2004, rate=7.99, time=2:27}
+Track{name='Over The Hills And Far away', year=2004, rate=4.89, time=7:32}
+Track{name='Elan', year=2015, rate=7.6, time=3:25}
+Track{name='EverDream', year=2008, rate=6.71, time=15:9}
+Track{name='The Phantom Of The Opera', year=2005, rate=4.6, time=3:13}
+Track{name='Shudder Before The Beautiful', year=2015, rate=8.44, time=6:38}
+Track{name='Bless The Child', year=2006, rate=9.96, time=14:23}
+Track{name='Shoemaker', year=2020, rate=7.0, time=4:54}
+Track{name='Alpenglow', year=2015, rate=7.63, time=7:2}
+Track{name='Dead To The World', year=2008, rate=6.04, time=5:13}
+Track{name='Gethsemane', year=1998, rate=7.91, time=12:13}
+Track{name='Weak Fantasy', year=2015, rate=7.4, time=2:6}
+Track{name='She Is My Sin - Live at Wacken 2013', year=2013, rate=6.87, time=14:13}
+Track{name='Stargazers', year=1998, rate=9.8, time=14:9}
+Track{name='Pan', year=2020, rate=6.97, time=13:4}
+Track{name='My Walden', year=2015, rate=9.68, time=8:15}
+Track{name='The Poet And The Pendulum - Remastered', year=2018, rate=6.75, time=7:50}
+Track{name='Moondance', year=1998, rate=9.66, time=13:27}
+Track{name='Endless Forms Most Beautiful', year=2015, rate=4.91, time=8:17}
+Track{name='Wishmaster', year=2000, rate=7.63, time=2:28}
+Track{name='Ghost Love Score', year=2004, rate=7.15, time=5:55}
+Track{name='Procession', year=2020, rate=8.41, time=2:13}
+Track{name='Sacrament Of Wilderness', year=1998, rate=4.67, time=7:7}
+Track{name='I Want My Tears Back', year=2011, rate=4.77, time=10:10}
+Track{name='Dark Chest Of Wonders', year=2004, rate=4.76, time=15:7}
+Track{name='The Riddler', year=1998, rate=6.5, time=3:34}
+Track{name='Astral Romance - Remake', year=2001, rate=7.04, time=6:9}
+Track{name='Turn Loose The Mermaids', year=2011, rate=5.88, time=5:45}
+Track{name='The Siren', year=2004, rate=4.9, time=11:11}
+Track{name='Dead Boy's Poem - Remastered', year=2018, rate=6.96, time=3:47}
+Track{name='Last Ride Of The Day', year=2011, rate=6.77, time=12:46}
+Track{name='Planet Hell', year=2004, rate=9.28, time=3:53}
+Track{name='High Hopes - Live', year=2006, rate=8.31, time=7:45}
+Track{name='Elvenpath - Remastered', year=2018, rate=7.68, time=8:19}
+Track{name='Storytime', year=2011, rate=6.54, time=12:7}
+Track{name='The Islander', year=2008, rate=6.26, time=3:22}
+Track{name='Bye Bye Beautiful', year=2007, rate=9.46, time=11:47}
+Track{name='Ghost River', year=2011, rate=9.97, time=13:46}
+Track{name='The Kinslayer - Remastered', year=2018, rate=9.38, time=11:32}
+Track{name='Sleepwalker', year=2013, rate=6.49, time=11:11}
+Track{name='Last Of The Wilds', year=2007, rate=6.6, time=14:11}
+Track{name='The Crow, The Owl And The Dove', year=2011, rate=8.0, time=5:9}
+Track{name='Square Hammer', year=2016, rate=6.64, time=5:22}
+Track{name='Cirice', year=2015, rate=4.88, time=4:24}
+Track{name='Dance Macabre', year=2018, rate=7.98, time=7:15}
+Track{name='He Is', year=2015, rate=7.36, time=11:0}
+Track{name='Year Zero', year=2013, rate=7.38, time=13:50}
+Track{name='Rats', year=2018, rate=5.13, time=10:46}
+Track{name='Life Eternal', year=2018, rate=9.58, time=10:49}
+Track{name='Ritual', year=2010, rate=6.93, time=11:56}
+Track{name='Faith', year=2018, rate=7.93, time=5:44}
+Track{name='From The Pinnacle To The Pit', year=2015, rate=7.11, time=11:57}
+Track{name='Mary On A Cross', year=2019, rate=8.62, time=11:42}
+Track{name='If You Have Ghosts', year=2013, rate=6.15, time=9:6}
+Track{name='Absolution', year=2016, rate=5.39, time=12:9}
+Track{name='Monstrance Clock', year=2013, rate=4.51, time=4:9}
+Track{name='Deus In Absentia', year=2016, rate=8.86, time=5:31}
+Track{name='Jigolo Har Megiddo', year=2013, rate=7.65, time=14:30}
+Track{name='Con Clavi Con Dio', year=2010, rate=6.0, time=7:18}
+Track{name='Mummy Dust', year=2016, rate=7.22, time=6:29}
+Track{name='Majesty', year=2016, rate=7.83, time=11:57}
+Track{name='Elizabeth', year=2010, rate=8.5, time=9:21}
+Track{name='Crucified', year=2013, rate=8.36, time=3:49}
+Track{name='Satan Prayer', year=2010, rate=5.67, time=11:40}
+Track{name='Genesis', year=2010, rate=7.06, time=5:30}
+Track{name='Ghuleh / Zombie Queen', year=2013, rate=7.86, time=13:10}
+Track{name='Nocturnal Me', year=2016, rate=8.76, time=12:2}
+Track{name='Bible', year=2016, rate=9.77, time=9:45}
+Track{name='Stand By Him', year=2010, rate=5.42, time=13:35}
+Track{name='Spirit', year=2016, rate=4.97, time=9:2}
+Track{name='Per Aspera Ad Inferi', year=2013, rate=5.75, time=10:14}
+Track{name='SECULAR HAZE', year=2013, rate=5.38, time=5:50}
+Track{name='Ievan Polkka', year=2012, rate=8.26, time=9:52}
+Track{name='Vodka', year=2009, rate=7.1, time=8:4}
+Track{name='Lempo', year=2015, rate=4.6, time=9:26}
+Track{name='A Man with a Plan', year=2016, rate=7.88, time=9:13}
+Track{name='Leviluhta', year=2020, rate=9.69, time=8:24}
+Track{name='Tuuleton', year=2021, rate=7.61, time=5:20}
+Track{name='Rauta', year=2012, rate=6.9, time=5:30}
+Track{name='Niemi', year=2021, rate=8.77, time=15:7}
+Track{name='Kotikonnut', year=2018, rate=5.5, time=6:46}
+Track{name='Sanaton maa', year=2020, rate=5.89, time=9:53}
+Track{name='Juodaan Viinaa', year=2009, rate=8.88, time=2:47}
+Track{name='Kunnia', year=2012, rate=7.84, time=3:3}
+Track{name='Kiuru', year=2021, rate=4.77, time=14:43}
+Track{name='Viinameen Mies', year=2015, rate=9.38, time=14:55}
+Track{name='Henkselipoika', year=2018, rate=8.19, time=4:45}
+Track{name='Ieva'S Polka', year=2012, rate=6.33, time=8:45}
+Track{name='Miero', year=2021, rate=4.79, time=2:41}
+Track{name='Sahti', year=2015, rate=6.14, time=7:50}
+Track{name='Jagermeister', year=2019, rate=8.97, time=9:4}
+Track{name='Anolan aukeat', year=2021, rate=5.21, time=7:32}
+Track{name='Tequila', year=2011, rate=7.66, time=2:53}
+Track{name='Ruumiinmultaa', year=2012, rate=8.26, time=8:16}
+Track{name='Aallon alla', year=2018, rate=5.89, time=12:24}
+Track{name='Sudenmorsian', year=2020, rate=6.36, time=12:23}
+Track{name='Juuret', year=2021, rate=5.67, time=5:23}
+Track{name='Tuonelan Tuvilla', year=2012, rate=6.49, time=8:39}
+Track{name='Verikoira', year=2021, rate=9.48, time=5:13}
+Track{name='Bring Us Pints of Beer', year=2009, rate=6.12, time=10:46}
+Track{name='Luontoni', year=2015, rate=6.2, time=9:10}
+Track{name='Mylly', year=2020, rate=9.12, time=9:29}
+Track{name='Korpikuusen kyynel', year=2018, rate=6.02, time=7:8}
+Track{name='Tuoppi Oltta', year=2011, rate=7.37, time=12:24}
+Track{name='Kultanainen', year=2009, rate=5.14, time=12:36}
+Track{name='Beer Beer - Scotland', year=2019, rate=7.84, time=7:54}
+Track{name='Land of a Thousand Drinks', year=2019, rate=4.57, time=12:27}
+Track{name='Vaarinpolkka', year=2011, rate=6.49, time=3:58}
+Track{name='Mettanpeiton Valtiaalle', year=2009, rate=7.24, time=6:38}
+Track{name='Suden joiku', year=2008, rate=5.88, time=2:48}
+Track{name='Harmaja', year=2018, rate=7.79, time=10:2}
+Track{name='Korvesta Liha', year=2011, rate=9.35, time=13:32}
+Track{name='Neito', year=2018, rate=6.81, time=2:56}
+Track{name='Louhen Yhdeksas Poika', year=2011, rate=6.79, time=5:6}
+Track{name='Another Brick in the Wall, Pt. 1, 2, 3', year=2010, rate=5.12, time=9:1}
+Track{name='Zombie', year=2018, rate=6.42, time=4:57}
+Track{name='Zombie', year=1994, rate=6.31, time=6:28}
+Track{name='Istanbul (Not Constantinople)', year=1990, rate=6.96, time=3:50}

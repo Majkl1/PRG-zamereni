@@ -1,0 +1,4 @@
+Pepa Málohladný,Beginner,S,S,H,S
+Majklus Jedlus,MegaEater,S,H,P,P
+Speaker,MegaEater,P,P,P,P,H,S
+Prokop Okno,Eater,S,S,H,P
