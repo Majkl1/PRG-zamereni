@@ -7,7 +7,7 @@ import java.util.Random;
 
 public class WritingDemo {
     public static void main(String[] args) {
-        String fileName = "coords.txt";
+        String fileName = "data/coords.txt";
         Random r = new Random();
         //znamy způsob:
         DataExport de = new DataExport(fileName);
@@ -50,7 +50,5 @@ public class WritingDemo {
         } catch (IOException e) {
             System.out.println("chyba při práci se souborem: " + e.getMessage());
         }
-
-
     }
 }

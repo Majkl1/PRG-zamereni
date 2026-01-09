@@ -22,7 +22,7 @@ public class Basics {
 
 
     public static void main(String[] args) {
-        File f = new File("data\\tracks.txt");
+        File f = new File("data/tracks.txt");
         System.out.println(f.exists());
         System.out.println(f.isFile());
         System.out.println(f.isDirectory());
