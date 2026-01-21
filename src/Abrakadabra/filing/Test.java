@@ -13,7 +13,7 @@ public class Test {
         try {
             int zn = 0;
             int lines = 0;
-            int vety =0;
+            int vety = 0;
             FileReader fr = new FileReader(path);
 
             int input;
