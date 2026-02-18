@@ -27,7 +27,9 @@ public class Basics {
 class Coordinates implements Serializable {
     @Serial
     private static final long serialVersionUID = 1L;
-    int x,y,z;
+    int x;
+    int y;
+    transient int z;
 
     public Coordinates(int x, int y, int z) {
         this.x = x;
