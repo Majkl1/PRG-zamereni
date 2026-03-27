@@ -13,12 +13,10 @@ interface Magnitude{
     double quadratic(double number);
 }
 
-public class Basic {
+public class LambdaBasic {
     public static void printResult(MathFunction mf, double a, double b){
         System.out.println(mf.run(a,b));
     }
-
-
 
     public static void main(String[] args) {
         MathFunction add = new Addition();
