@@ -58,6 +58,7 @@ public class GenreMapping {
         }
 
         //tohle udela to same :)
+        //ekvivalent pro sql GROUP BY()
         Map<String, List<Movie>> alsoGenreMap = movies.stream()
                 .collect(Collectors.groupingBy(Movie::getGenre));
 
