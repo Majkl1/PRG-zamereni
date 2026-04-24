@@ -65,6 +65,7 @@ public class CountriesMapping {
 
             Optional<Country> max = mostPopulatedCountryByContinent.get("Africa");
             Country m = max.get();
+            System.out.println(m);
 
 
 
@@ -94,40 +95,9 @@ public class CountriesMapping {
             }
 
 
-            Map<String, Country> avgAgeByContinent2 = countries.stream()
-                    .collect(Collectors.groupingBy(
-                            Country::getContinent,
-                            Collectors.collectingAndThen(
-                                    Collectors.maxBy(Comparator.comparing(Country::getLifeExpectancy)),
-                                    Optional::get
-                            )
-
-                    ));
-
-
-            Map<String, Double> avgAgeByContinent3 = countries.stream()
-                    .collect(Collectors.groupingBy(Country::getContinent, Collectors.averagingDouble(Country::getLifeExpectancy)));
-
-
-            avgAgeByContinent3.keySet().stream()
-                    .sorted();
-
-            for (String continent : avgAgeByContinent2.keySet()){
-
-
-
-            }
-
-
-
-
-
-
         } catch (IOException e) {
             System.err.println("Something went wrong!");
         }
-
-
     }
 }
 
