@@ -18,21 +18,40 @@ public class MovieRatings {
               .toList();
       movies.forEach(System.out::println);
 
-      List<Rating> ratings = Files.lines(Path.of("data/movies_db/input.csv"))
+      List<Rating> ratings = Files.lines(Path.of("data/movies_db/ratings.csv"))
               .skip(1)
               .map(line -> line.split(","))
               .map(tokens -> new Rating(Integer.parseInt(tokens[1]), Double.parseDouble(tokens[2])))
               .toList();
 
-      HashMap<Integer, Movie> referMap = new HashMap<Integer, Movie>();
+      HashMap<Integer, Movie> referMap = new HashMap<>();
       for (Movie m : movies){
           referMap.put(m.getId(), m);
       }
 
       for (Rating r : ratings){
+          if(referMap.get(r.movieID) == null) continue;
           referMap.get(r.movieID).ratings.add(r.getValue());
       }
 
+
+//špatné řešení:
+//      long start = System.currentTimeMillis();
+//      for (Movie m : movies){
+//          double avg = 0;
+//          int count =0;
+//          for (Rating r : ratings){
+//              if (r.movieID == m.id){
+//                  avg += r.value;
+//                  count++;
+//              }
+//          }
+//          avg = avg/count;
+//          System.out.println("Name: " + m.name + " Rating: " + avg);
+//      }
+//      long stop = System.currentTimeMillis();
+//      System.out.println(stop - start);
+//
 
     }
 }
