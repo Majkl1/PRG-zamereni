@@ -3,11 +3,13 @@ package Abrakadabra.streams.maps.magic;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
+import java.util.*;
+import java.util.stream.Collectors;
 
 public class MagicShop {
     public static void main(String[] args) throws IOException {
-        //dodělej to debile!!!!!
-        Files.lines(Path.of("data/magic/kouzelne_dilny.csv"))
+        List<MagicWorkshop> workshops = Files.lines(Path.of("data/magic/kouzelne_dilny.csv"))
+                .skip(1)
                 .map(line -> line.trim().split(","))
                 .map(t -> new MagicWorkshop(
                         Integer.parseInt(t[0]),
@@ -16,7 +18,99 @@ public class MagicShop {
                         Integer.parseInt(t[3]),
                         t[4],
                         t[5]
+                )).toList();
+
+        List<MagicWand> wands = Files.lines(Path.of("data/magic/kouzelne_hulky.csv"))
+                .skip(1)
+                .map(line -> line.trim().split(","))
+                .map(t -> new MagicWand(
+                        Integer.parseInt(t[0]),
+                        Integer.parseInt(t[1]),
+                        t[2],
+                        t[3],
+                        t[4],
+                        Integer.parseInt(t[5]),
+                        t[6],
+                        Integer.parseInt(t[7]),
+                        t[8].equals("ano")
+                )).toList();
+
+        Map<Integer, MagicWorkshop> referMap = new HashMap<>();
+        for (MagicWorkshop w : workshops){
+            referMap.put(w.id, w);
+        }
+
+        wands.stream()
+                .forEach(w -> referMap.get(w.workshopID).getWands().add(w));
+
+        Map<MagicWorkshop, List<MagicWand>> fullMap = wands.stream()
+                .collect(Collectors.groupingBy(
+                        wand -> workshops.stream()
+                                .filter(w -> w.getId() == wand.getWorkshopID())
+                                .findFirst()
+                                .orElseThrow()
                 ));
+
+        //cv1 - core == Dračí struna
+        workshops.stream()
+                .forEach(workshop -> workshop.getWands().stream()
+                        .filter(w -> w.getCore().equals("Dračí struna"))
+                        .forEach(System.out::println)
+        );
+        System.out.println("---------------------------------------------------");
+
+        //cv2 - sold && wood == dub
+        workshops.stream()
+                .forEach(workshop -> workshop.getWands().stream()
+                        .filter(w -> w.getWood().equals("Dub") && w.sold)
+                        .forEach(System.out::println)
+                );
+
+        System.out.println("---------------------------------------------------");
+
+        //cv3 - height > 33cm
+        workshops.stream()
+                .forEach(workshop -> workshop.getWands().stream()
+                        .filter(w -> w.getHeight() > 33)
+                        .forEach(System.out::println)
+                );
+
+        System.out.println("---------------------------------------------------");
+
+        //cv4 - workshop -> specialization == bojové hůlky
+        workshops.stream()
+                .filter(w -> w.getSpecialization().equals("Bojové hůlky"))
+                .forEach(System.out::println);
+
+        System.out.println("---------------------------------------------------");
+
+        //cv5 - price > 1000
+        workshops.stream()
+                .forEach(workshop -> workshop.getWands().stream()
+                        .filter(w -> w.getPrice() > 1000)
+                        .forEach(System.out::println)
+                );
+
+        System.out.println("---------------------------------------------------");
+
+        //cv6 - vypsat názvy dílen sídlící v praze
+        workshops.stream()
+                .filter(w -> w.getCity().equals("Praha"))
+                .map(w -> w.getName())
+                .forEach(System.out::println);
+
+        System.out.println("---------------------------------------------------");
+
+        //cv7 - Vypsat všechny hůlky od nejdražší po nejlevnější !!!!!!nefunguje!!!!!! (idk proč)
+        workshops.stream()
+                .forEach(workshop -> workshop.getWands().stream()
+                        .sorted(Comparator.comparingInt(MagicWand::getPrice).reversed())
+                        .forEach(System.out::println)
+                );
+
+        //cv11 - hůlky seskupené podle dřeva
+        Map<String, List<MagicWand>> wandsByWoodd = wands.stream()
+                .collect(Collectors.groupingBy(MagicWand::getWood));
     }
 }
 
@@ -27,6 +121,7 @@ class MagicWorkshop{
     int year;
     String owner;
     String specialization;
+    List<MagicWand> wands;
 
     public MagicWorkshop(int id, String name, String city, int year, String owner, String specialization) {
         this.id = id;
@@ -35,6 +130,7 @@ class MagicWorkshop{
         this.year = year;
         this.owner = owner;
         this.specialization = specialization;
+        this.wands = new ArrayList<>();
     }
 
     @Override
@@ -47,6 +143,14 @@ class MagicWorkshop{
                 ", owner='" + owner + '\'' +
                 ", specialization='" + specialization + '\'' +
                 '}' + "\n";
+    }
+
+    public List<MagicWand> getWands() {
+        return wands;
+    }
+
+    public void setWands(List<MagicWand> wands) {
+        this.wands = wands;
     }
 
     public int getId() {
@@ -101,7 +205,7 @@ class MagicWorkshop{
 class MagicWand{
     int id;
     int workshopID;
-    int year;
+    String year;
     String wood;
     String core;
     int height;
@@ -109,7 +213,8 @@ class MagicWand{
     int price;
     boolean sold;
 
-    public MagicWand(int id, int workshopID, int year, String wood, String core, int height, String flexibility, int price, boolean sold) {
+
+    public MagicWand(int id, int workshopID, String year, String wood, String core, int height, String flexibility, int price, boolean sold) {
         this.id = id;
         this.workshopID = workshopID;
         this.year = year;
@@ -136,6 +241,18 @@ class MagicWand{
                 '}' + "\n";
     }
 
+    @Override
+    public boolean equals(Object o) {
+        if (o == null || getClass() != o.getClass()) return false;
+        MagicWand magicWand = (MagicWand) o;
+        return price == magicWand.price;
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hashCode(price);
+    }
+
     public int getId() {
         return id;
     }
@@ -152,11 +269,11 @@ class MagicWand{
         this.workshopID = workshopID;
     }
 
-    public int getYear() {
+    public String getYear() {
         return year;
     }
 
-    public void setYear(int year) {
+    public void setYear(String year) {
         this.year = year;
     }
 
