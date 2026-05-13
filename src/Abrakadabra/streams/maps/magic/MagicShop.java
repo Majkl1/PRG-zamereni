@@ -36,12 +36,8 @@ public class MagicShop {
                 )).toList();
 
         Map<Integer, MagicWorkshop> referMap = new HashMap<>();
-        for (MagicWorkshop w : workshops){
-            referMap.put(w.id, w);
-        }
-
-        wands.stream()
-                .forEach(w -> referMap.get(w.workshopID).getWands().add(w));
+        workshops.forEach(w -> referMap.put(w.id,w));
+        wands.forEach(w -> referMap.get(w.getWorkshopID()).getWands().add(w));
 
         Map<MagicWorkshop, List<MagicWand>> fullMap = wands.stream()
                 .collect(Collectors.groupingBy(
