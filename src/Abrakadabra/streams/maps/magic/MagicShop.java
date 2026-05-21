@@ -3,6 +3,8 @@ package Abrakadabra.streams.maps.magic;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
+import java.time.LocalDate;
+import java.time.format.DateTimeFormatter;
 import java.util.*;
 import java.util.stream.Collectors;
 
@@ -26,7 +28,7 @@ public class MagicShop {
                 .map(t -> new MagicWand(
                         Integer.parseInt(t[0]),
                         Integer.parseInt(t[1]),
-                        t[2],
+                        LocalDate.parse(t[2]),
                         t[3],
                         t[4],
                         Integer.parseInt(t[5]),
@@ -202,7 +204,7 @@ class MagicWorkshop{
 class MagicWand{
     int id;
     int workshopID;
-    String year;
+    LocalDate year;
     String wood;
     String core;
     int height;
@@ -211,7 +213,7 @@ class MagicWand{
     boolean sold;
 
 
-    public MagicWand(int id, int workshopID, String year, String wood, String core, int height, String flexibility, int price, boolean sold) {
+    public MagicWand(int id, int workshopID, LocalDate year, String wood, String core, int height, String flexibility, int price, boolean sold) {
         this.id = id;
         this.workshopID = workshopID;
         this.year = year;
@@ -266,11 +268,11 @@ class MagicWand{
         this.workshopID = workshopID;
     }
 
-    public String getYear() {
+    public LocalDate getYear() {
         return year;
     }
 
-    public void setYear(String year) {
+    public void setYear(LocalDate year) {
         this.year = year;
     }
 
