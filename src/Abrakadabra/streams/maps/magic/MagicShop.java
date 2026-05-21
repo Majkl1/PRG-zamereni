@@ -47,6 +47,7 @@ public class MagicShop {
                                 .orElseThrow()
                 ));
 
+
         //cv1 - core == Dračí struna
         workshops.stream()
                 .forEach(workshop -> workshop.getWands().stream()
